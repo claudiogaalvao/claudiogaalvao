@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="#" alt="Website">
-  <img src="https://img.shields.io/badge/-Website-FF0000?style=flat-square&labelColor=FF0000&logo=Google Chrome&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+  <img src="https://img.shields.io/badge/-Website-173B6C?style=flat-square&labelColor=173B6C&logo=Google Chrome&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
